@@ -54,7 +54,7 @@ def main(CardToCount,DeckValue):
         CardToCount = CardToCount.upper()
     count_cards(CardToCount,DeckValue)
     print("Count: " +  str(get_count()))
-    print("Runnig Count: " + str(get_running_count()))
+    print("Running Count: " + str(get_running_count()))
     print("Bet: "+ str(get_bet(get_running_count())))
 
 ## Main ##
