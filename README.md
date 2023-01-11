@@ -12,6 +12,10 @@ This is a basic Python program that can assist a user in counting cards in a gam
 ### Requirements
 - Python 3.x
 
+## Disclaimer
+This program is for educational and research purposes only. 
+Any use of this program in a casino is strictly prohibited and may be against the casino's terms of service. 
+The author of this program will not be held responsible for any losses or gains incurred as a result of using this program. By using this program, the user agrees to use it at their own risk.
 
 ## Authors
 
